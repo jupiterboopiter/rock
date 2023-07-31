@@ -133,3 +133,96 @@
 .game .icons .fa-hand-scissors {
     margin-left: 12rem;
 }
+
+
+
+
+
+
+
+
+
+
+@media (max-width:991px) {
+    html {
+        font-size: 70%;
+    }
+}
+
+@media (max-width:768px) {
+    .title {
+        text-align: center;
+    }
+}
+
+@media (max-width:412px) {
+    html {
+        font-size: 50%;
+    }
+    .game .options {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+@media (max-width:423px) {
+    html {
+        font-size: 55%;
+    }
+    .game .options {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+@media (max-width:435px) {
+    html {
+        font-size: 55%;
+    }
+    .game .options {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+@media (max-width:380px) {
+    html {
+        font-size: 45%;
+    }
+    .game .options {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+@media (max-width:468px) {
+    html {
+        font-size: 55%;
+    }
+    .game .options {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+@media (max-width:507px) {
+    html {
+        font-size: 55%;
+    }
+    .game .options {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
